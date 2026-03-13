@@ -132,7 +132,7 @@
                 </div>
             </div>
 
-            <div class="chart-card">
+            {{-- <div class="chart-card">
                 <div class="chart-header">
                     <div class="chart-title">
                         <div class="chart-icon">
@@ -163,7 +163,7 @@
                 <div class="chart-container">
                     <canvas id="performanceChart"></canvas>
                 </div>
-            </div>
+            </div> --}}
 
 
 @endsection            
